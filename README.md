@@ -66,12 +66,6 @@ The web interface is built using standard web technologies:
 *   CSS3 (utilizing CSS variables for theming)
 *   JavaScript (Vanilla JS)
 
-### 🚀 Running Locally
-
-1.  Clone the repository.
-2.  Open the `PigletteAI.html` file in your web browser.
-3.  *Note:* Some features (e.g., API interactions, IndexedDB storage) might require running through a local web server (like Python's `http.server` or VS Code's Live Server) due to browser security policies regarding the `file://` protocol.
-
 ### 🤝 Contributing
 
 Contributions are not currently accepted, as the project is maintained by the geniuses (and their cats) at NeuroOverlord 2025™.
@@ -134,19 +128,9 @@ Contributions are not currently accepted, as the project is maintained by the ge
 *   CSS3 (з використанням CSS змінних для теми)
 *   JavaScript (Vanilla JS)
 
-### 🚀 Локальний запуск
-
-1.  Клонуйте репозиторій.
-2.  Відкрийте файл `PigletteAI.html` у вашому веб-браузері.
-3.  *Примітка:* Деякі функції (наприклад, взаємодія з API, збереження даних у IndexedDB) можуть вимагати запуску через локальний веб-сервер (наприклад, за допомогою Python `http.server` або Live Server у VS Code) через політику безпеки браузера щодо `file://` протоколу.
-
 ### 🤝 Внесок
 
 На даний момент внески не приймаються, оскільки проєкт підтримується геніями (та їхніми кішками) з NeuroOverlord 2025™.
-
-### 📄 Ліцензія
-
-Будь ласка, зверніться до розділу [Рекомендації щодо ліцензії](#рекомендації-щодо-ліцензії) нижче.
 
 ---
 
@@ -205,12 +189,6 @@ Contributions are not currently accepted, as the project is maintained by the ge
 *   HTML5
 *   CSS3 (с использованием переменных CSS для темы)
 *   JavaScript (Vanilla JS)
-
-### 🚀 Локальный запуск
-
-1.  Клонируйте репозиторий.
-2.  Откройте файл `PigletteAI.html` в вашем веб-браузере.
-3.  *Примечание:* Некоторые функции (например, взаимодействие с API, сохранение данных в IndexedDB) могут потребовать запуска через локальный веб-сервер (например, с помощью Python `http.server` или Live Server в VS Code) из-за политики безопасности браузера в отношении `file://` протокола.
 
 ### 🤝 Вклад
 
