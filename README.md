@@ -3,6 +3,7 @@
 **The best AI assistant, one of a kind! (Maybe)**
 
 **(Not) a serious AI that generates pig memes, jokes, riddles, captchas, and much more. Collect golden eggs, buy *exclusive* merch, and view the AI art gallery. Enter if you dare!**
+
 **Check it out: https://piglette-ai.vercel.app/**
 
 ---
