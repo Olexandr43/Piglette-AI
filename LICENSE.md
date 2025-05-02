@@ -1,6 +1,6 @@
 # The P.I.G. License (Piglette's Incredibly Generous License) 🐷📜
 
-**Version:** Oink! (0.1)
+**Version:** Oink! 0.0.0.3.14.15.9‑beta+CI.042.2025‑build_69.farm
 
 **Languages:** [English](#english) | [Українська](#українська) | [Русский](#русский)
 
